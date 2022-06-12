@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="LoadingButton">
-<!--   TODO: create custom attributes for the view-->
+        <attr name="arc_color" format="color"/>
+        <attr name="button_background_progress_color" format="color"/>
+        <attr name="button_background_default_color" format="color"/>
+        <attr name="loader_default_text" format="string"/>
+        <attr name="loader_progress_text" format="string"/>
+        <attr name="button_text_color" format="color"/>
     </declare-styleable>
 </resources>

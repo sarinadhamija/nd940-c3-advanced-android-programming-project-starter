@@ -11,4 +11,15 @@
     <string name="button_name">Click me</string>
     <string name="button_loading">We are loading </string>
     <string name="title_activity_detail">DetailActivity</string>
+    <string name="rb_glide">Glide - Image Loading Library Library by BumpTech</string>
+    <string name="rb_loader">Load App - Current repository by Udacity</string>
+    <string name="rb_retrofit">Retrofit - Type-safe HTTP client for Android and Java by Square, Inc</string>
+    <string name="error_no_option_selected">Please select the file to download</string>
+    <string name="detail_button_ok">OK</string>
+    <string name="detail_file_name_label">File Name</string>
+    <string name="detail_status_label">Status</string>
+    <string name="loader_button_default_text">Download</string>
+    <string name="loader_button_loading_text">We are downloading</string>
+    <string name="download_status_success">Success</string>
+    <string name="download_status_fail">Fail</string>
 </resources>
